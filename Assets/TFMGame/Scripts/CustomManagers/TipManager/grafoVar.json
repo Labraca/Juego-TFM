@@ -1,0 +1,461 @@
+[
+    {
+      "Nodes": [
+        {
+          "variableId": "isEscena1_2Started",
+          "isActive": true,
+          "variableStatus":  false,
+          "fraseTip": "Debería buscar al director.",
+          "isOptional":false
+        },
+        {
+          "variableId": "metNovia",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Voy a ver al encargado a ver que puede necesitar él que le busque. Creo que está donde aparqué la camioneta.",
+          "isOptional":false
+        },
+        {
+          "variableId": "BellObjConseguido",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Voy a ir un poco más adelante del sitio del Director, a ver si encuentro a los actores de la película.",
+          "isOptional":false
+        },
+        {
+          "variableId": "MorganObjConseguido",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "El actor del villano suele estar en el bar de la fachada verde. Me han dicho que es un poco energico.",
+          "isOptional":false
+        },
+        {
+          "variableId": "PoesiaAdivinada",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "La pareja del encargado puede que me diga como se llama el chaval.",
+          "isOptional":false
+        },
+        {
+          "variableId": "EncObjConseguido",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Vale, con la rima de su pareja creo poder adivinar como se llama el encargado.",
+          "isOptional":false
+        },
+        {
+          "variableId": "MapObt",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Voy a hablar con el director, por fin he hablado con todos los del rodaje.",
+          "isOptional":false
+        },
+        {
+          "variableId": "MeetCampanero",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Mirando el mapa, debería ir hacia el pueblo de Ourea de la mons a buscar al director de alli.",
+          "isOptional":false
+        },
+        {
+          "variableId": "BellPuzzle",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "El campanero quería que tocase la melodía que me silbó en las campanas de la iglesia.",
+          "isOptional":false
+        },
+        {
+          "variableId": "meetedArtista",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Debería explorar un poco la iglesia, por si encontrase algo de ayuda.",
+          "isOptional":false
+        },
+        {
+          "variableId": "meetedDirector2",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Vale, ahora debería encontrar al director de ourea de la mons. Creo que estará en alguna parte de la plaza del pueblo.",
+          "isOptional":false
+        },
+        {
+          "variableId": "meetedCura",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Me han dicho que el cura estaba en la plaza de la muralla, un poco más allá de la plaza del pueblo.",
+          "isOptional":false
+        },
+        {
+          "variableId": "CuraTipMultitud",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Voy a tener que hablar con el campanero sobre lo que ha dicho el cura.",
+          "isOptional":false
+        },
+        {
+          "variableId": "MultitudFuriosaEvent",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Si voy a donde está el padre Miguel puedo intentar enfurecer a la multitud y así que no se escuchen las campanas.",
+          "isOptional":false
+        },
+        {
+          "variableId": "InvBellPuzzle",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "El campanero me ha comentado que el cura toca la melodía pero al revés, debería probar eso en las campanas ahora que no me escuchan.",
+          "isOptional":false
+        },
+        {
+          "variableId": "CamaraTesoroDescubierta",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Al final del laberinto de la iglesia debería haber algo, solo tengo que seguir las pistas en las paredes y suelo.",
+          "isOptional":false
+        },
+        {
+          "variableId": "CamaraSecretaDada",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Ahora, con la cámara especial dorada, debería ir a ver al director de ourea de la mons.",
+          "isOptional":false
+        },
+        {
+          "variableId": "ArtistaObj",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Debo buscar una pieza de arte para sorprender a la directora de arte del pueblo. Un cuadro, una estatuilla, cualquier cosa...",
+          "isOptional":false
+        },
+        {
+          "variableId": "FirstMeetAcrobatas",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "En el pueblo debe de haber más actores trabajando en la pelicula. Tal vez en la plaza del pueblo pueda hablar con alguien.",
+          "isOptional":false
+        },
+        {
+          "variableId": "GotCaballoParaArlequin",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "En el pueblo de Ourea parece haber muchos animales. Puede que alguien del pueblo nos alquile unos caballos para la pelicula.",
+          "isOptional":false
+        },
+        {
+          "variableId": "GaveCaballoToArlequin",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Los acróbatas necesitan de un medio de transporte hasta el desierto. Mientras ande debería bastar.",
+          "isOptional":false
+        },
+        {
+          "variableId": "SustitutoArlequinDado",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Los acróbatas necesitan algo con peso para sustituir a uno de ellos en el trampolín. Además quieren algo con una cara, que bueno, eso se puede apañar con un poco de pintura.",
+          "isOptional":false
+        },
+        {
+          "variableId": "ArlequinObj",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Los acróbatas necesitan un medio de transporte para ir al desierto, y un sustituto de mas o menos el mismo peso.",
+          "isOptional":false
+        },
+        {
+          "variableId": "meetedGreta",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Debería buscar a Greta, la directora de Gran Urbana.",
+          "isOptional":false
+        },
+        {
+          "variableId": "initTeatro",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "La directora de Gran Urbana me ha dicho que participe en su pelicula, debería ir a la mansión donde la ruedan.",
+          "isOptional":false
+        },
+        {
+          "variableId": "interrogarSraChevoj",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Me han dicho que la Sra. Chevoj está en la sala al cruzar el vestibulo de la mansión.",
+          "isOptional":false
+        },
+        {
+          "variableId": "interrogarJardinero",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "El jardinero está en la parte de atrás de la mansión, se va por el vestíbulo. Estaba arreglando los arbustos, no creo que me diga nada útil.",
+          "isOptional":true
+        },
+        {
+          "variableId": "interrogarGregor",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "El hijo de Chevoj está en la terraza del ala oeste, debería ver que sabe del incidente.",
+          "isOptional":false
+        },
+        {
+          "variableId": "interrogarDelilah",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "La socia de Chevoj está en su habitación de la segunda planta. Debería ver que sabe.",
+          "isOptional":false
+        },
+        {
+          "variableId": "GotBoletin",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Debería inspeccionar el despacho de la mansión. Igual hay algo de utilidad.",
+          "isOptional":true
+        },
+        {
+          "variableId": "gotReceta",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Debería inspeccionar la habitación de los Chevoj. Igual hay algo de utilidad.",
+          "isOptional":false
+        },
+        {
+          "variableId": "GotRecorte",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Debería inspeccionar la habitación de Gregor Chevoj. Igual hay algo de utilidad.",
+          "isOptional":false
+        },
+        {
+          "variableId": "GotAcido",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Conseguí una extraña receta del diario de la Sra. Chevoj. Podría ser una pista, debería comentarlo con el mayordomo",
+          "isOptional":false
+        },
+        {
+          "variableId": "ResolverCuadro",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Encontré un recorte de periódico sobre el cuadro del despacho de Chevoj. Debería ir a investigar",
+          "isOptional":false
+        },
+        {
+          "variableId": "MarcusConv1",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Puede que Gregor esté usando el teléfono de su habitación para comunicarse con alguien de fuera. Merece la pena mirarlo.",
+          "isOptional":true
+        },
+        {
+          "variableId": "MarcusConfiesa",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Gregor Chevoj se comunica con su amigo Marco a través del telefono, pero no pueden ser descubiertos. Necesitaría cambiar mi voz con algo para descubrir qué se tienen entre manos.",
+          "isOptional":true
+        },
+        {
+          "variableId": "AbrirCaja",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Debo encontrar la manera de abrir la caja fuerte del despacho de Chevoj. Si no es a las buenas, a las malas.",
+          "isOptional":false
+        },
+        {
+          "variableId": "PersecucionVar",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "¡Debo contarle al mayordomo lo ocurrido!",
+          "isOptional":false
+        },
+        {
+          "variableId": "GretaObj",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "¡Tengo que dialogar con Delilah!",
+          "isOptional":false
+        },
+        {
+          "variableId": "ConvFinalDirector",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "Creo que tengo todo lo que me pidió el jefe, debería hablar con él en el desierto.",
+          "isOptional":false
+        },
+        {
+          "variableId": "RetarBell",
+          "isActive": false,
+          "variableStatus": false,
+          "fraseTip": "El jefe me dijo que fuera al fondo del poblado de decorado.",
+          "isOptional":false
+        }
+        
+      ],
+      "Adjacency": {
+        "isEscena1_2Started": {
+          "predecessors": [],
+          "successors": [ "metNovia", "BellObjConseguido", "MorganObjConseguido" ]
+        },
+        "metNovia": {
+          "predecessors": [ "isEscena1_2Started" ],
+          "successors": [ "PoesiaAdivinada" ]
+        },
+        "BellObjConseguido": {
+          "predecessors": [ "isEscena1_2Started" ],
+          "successors": [ "MapObt" ]
+        },
+        "MorganObjConseguido": {
+          "predecessors": [ "isEscena1_2Started" ],
+          "successors": [ "MapObt" ]
+        },
+        "PoesiaAdivinada": {
+          "predecessors": [ "metNovia" ],
+          "successors": [ "EncObjConseguido" ]
+        },
+        "EncObjConseguido": {
+          "predecessors": [ "PoesiaAdivinada" ],
+          "successors": [ "MapObt" ]
+        },
+        "MapObt": {
+          "predecessors": [ "EncObjConseguido", "BellObjConseguido", "MorganObjConseguido" ],
+          "successors": [ "MeetCampanero", "meetedArtista" ]
+        },
+        "MeetCampanero": {
+          "predecessors": [ "MapObt" ],
+          "successors": [ "BellPuzzle" ]
+        },
+        "BellPuzzle": {
+          "predecessors": [ "BellPuzzle" ],
+          "successors": [ "meetedDirector2","GotCaballoParaArlequin","FirstMeetAcrobatas" ]
+        },
+        "meetedArtista": {
+          "predecessors": [ "MapObt" ],
+          "successors": []
+        },
+        "meetedDirector2": {
+          "predecessors": [ "meetedDirector2" ],
+          "successors": [ "meetedCura" ]
+        },
+        "meetedCura": {
+          "predecessors": [ "meetedDirector2" ],
+          "successors": [ "CuraTipMultitud" ]
+        },
+        "CuraTipMultitud": {
+          "predecessors": [ "meetedCura" ],
+          "successors": [ "MultitudFuriosaEvent" ]
+        },
+        "MultitudFuriosaEvent": {
+          "predecessors": [ "CuraTipMultitud" ],
+          "successors": [ "InvBellPuzzle" ]
+        },
+        "InvBellPuzzle": {
+          "predecessors": [ "MultitudFuriosaEvent" ],
+          "successors": [ "CamaraTesoroDescubierta" ]
+        },
+        "CamaraTesoroDescubierta": {
+          "predecessors": [ "InvBellPuzzle" ],
+          "successors": [ "CamaraSecretaDada" ]
+        },
+        "CamaraSecretaDada": {
+          "predecessors": [ "CamaraTesoroDescubierta" ],
+          "successors": ["ConvFinalDirector"]
+        },
+        "ArtistaObj": {
+          "predecessors": [ "meetedArtista" ],
+          "successors": ["ArlequinObj"]
+        },
+        "GotCaballoParaArlequin": {
+          "predecessors": [ "BellPuzzle" ],
+          "successors": ["GaveCaballoToArlequin"]
+        },
+        "FirstMeetAcrobatas": {
+          "predecessors": [ "BellPuzzle" ],
+          "successors": ["GaveCaballoToArlequin","SustitutoArlequinDado","ArlequinObj"]
+        },
+        "GaveCaballoToArlequin": {
+          "predecessors": [ "FirstMeetAcrobatas","GotCaballoParaArlequin" ],
+          "successors": ["ArlequinObj"]
+        },
+        "SustitutoArlequinDado": {
+          "predecessors": [ "FirstMeetAcrobatas" ],
+          "successors": ["ArlequinObj"]
+        },
+        "ArlequinObj": {
+          "predecessors": [ "SustitutoArlequinDado","GaveCaballoToArlequin","FirstMeetAcrobatas" ],
+          "successors": ["ConvFinalDirector"]
+        },
+        "meetedGreta": {
+          "predecessors": [ "MapObt" ],
+          "successors": ["initTeatro"]
+        },
+        "initTeatro": {
+          "predecessors": [ "meetedGreta" ],
+          "successors": ["interrogarSraChevoj","interrogarJardinero","interrogarGregor","interrogarDelilah","GotBoletin"]
+        },
+        "interrogarSraChevoj": {
+          "predecessors": [ "initTeatro" ],
+          "successors": ["gotReceta"]
+        },
+        "interrogarJardinero": {
+          "predecessors": [ "initTeatro" ],
+          "successors": []
+        },
+        "interrogarGregor": {
+          "predecessors": [ "initTeatro" ],
+          "successors": ["GotRecorte"]
+        },
+        "interrogarDelilah": {
+          "predecessors": [ "initTeatro" ],
+          "successors": []
+        },
+        "GotBoletin": {
+          "predecessors": [ "initTeatro" ],
+          "successors": []
+        },
+        "gotReceta": {
+          "predecessors": [ "interrogarSraChevoj" ],
+          "successors": ["GotAcido"]
+        },
+        "GotRecorte": {
+          "predecessors": [ "interrogarGregor" ],
+          "successors": ["ResolverCuadro","MarcusConv1"]
+        },
+        "GotAcido": {
+          "predecessors": [ "gotReceta" ],
+          "successors": ["AbrirCaja"]
+        },
+        "ResolverCuadro": {
+          "predecessors": [ "GotRecorte" ],
+          "successors": ["AbrirCaja"]
+        },
+        "MarcusConv1": {
+          "predecessors": [ "GotRecorte" ],
+          "successors": ["MarcusConfiesa"]
+        }
+        ,
+        "MarcusConfiesa": {
+          "predecessors": [ "MarcusConv1" ],
+          "successors": []
+        },
+        "AbrirCaja": {
+          "predecessors": [ "MarcusConfiesa","GotAcido","ResolverCuadro","GotBoletin" ],
+          "successors": ["PersecucionVar"]
+        },
+        "PersecucionVar": {
+          "predecessors": [ "AbrirCaja" ],
+          "successors": ["GretaObj"]
+        },
+        "GretaObj": {
+          "predecessors": [ "PersecucionVar" ],
+          "successors": ["ConvFinalDirector"]
+        },
+        "ConvFinalDirector": {
+          "predecessors": [ "GretaObj","CamaraSecretaDada","ArlequinObj","ArtistaObj" ],
+          "successors": ["RetarBell"]
+        },
+        "RetarBell": {
+          "predecessors": [ "ConvFinalDirector" ],
+          "successors": []
+        }
+      }
+    }
+  ]

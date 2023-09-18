@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/NombrePlayer.unity
+    guid: 0a8e972167a7ded438f272791192d16d
+  - enabled: 1
+    path: Assets/Scenes/Escena1_0.unity
+    guid: 2737b839c35629c4d8e9239e2b8311a9
+  - enabled: 1
+    path: Assets/Scenes/Escena_1_1.unity
+    guid: d23cbd4a3a6f3164d82ee0a4223df92d
+  - enabled: 1
+    path: Assets/Scenes/Escena_1_2.unity
+    guid: abeca00607d38514eb38f90f55fbabf3
+  - enabled: 1
+    path: Assets/Scenes/CalleDecorado.unity
+    guid: 54edcc6641be3f3459385354c79eab9e
+  - enabled: 1
+    path: Assets/Scenes/BarBarra.unity
+    guid: bd000bbf61bba6843878ab41d7c9d511
+  - enabled: 1
+    path: Assets/Scenes/Camara.unity
+    guid: 5bc027e0fde8a1c48bac32afe1e21b7b
+  - enabled: 1
+    path: Assets/Scenes/AfuerasPueblo.unity
+    guid: 7040aa7df37b5a34f9fb14c6ec2d2c1f
+  - enabled: 1
+    path: Assets/Scenes/IglesiaEntrada.unity
+    guid: 53306905fe6d7c14fa29b61c10e60e42
+  - enabled: 1
+    path: Assets/Scenes/CampanasIglesia.unity
+    guid: 383d4b00d6151b844923d70be0d55d53
+  - enabled: 1
+    path: Assets/Scenes/Muralla.unity
+    guid: 6cfc8b39e16ec614dbf1083f662ca6eb
+  - enabled: 1
+    path: Assets/Scenes/DentroCarpa.unity
+    guid: 998d8c2b8f8159a43a989961bffb00e9
+  - enabled: 1
+    path: Assets/Scenes/PlazaPueblo.unity
+    guid: 40e2dc436aafd7644865f16415809ed2
+  - enabled: 1
+    path: Assets/Scenes/Laberinto.unity
+    guid: de302c87cb6f0cb4db5cef0b79ccc4cb
+  - enabled: 1
+    path: Assets/Scenes/PastosPueblo.unity
+    guid: fbfb544591f5afe4b8bed744e69576be
+  - enabled: 1
+    path: Assets/Scenes/EntradaMansion.unity
+    guid: 6ce43b0e3c2e0e149877f6e16ce74926
+  - enabled: 1
+    path: Assets/Scenes/DelilahHab.unity
+    guid: 60b77a8d11dfc6443bb0da39cc1d6eaf
+  - enabled: 1
+    path: Assets/Scenes/Callejon.unity
+    guid: e53ed4d0828b5be46b38b24a316df71f
+  - enabled: 1
+    path: Assets/Scenes/Cocina.unity
+    guid: ad04d0e5cd8307547a7cd0af2585c29a
+  - enabled: 1
+    path: Assets/Scenes/Despacho.unity
+    guid: d61cec71d9596ad4b845e8c6bdc0594e
+  - enabled: 1
+    path: Assets/Scenes/GregorHab.unity
+    guid: adcac650cefb5934482f664ee557bffa
+  - enabled: 1
+    path: Assets/Scenes/HanoiCajasCallejon.unity
+    guid: 8fa8565b2e925394599dc1e8129566a3
+  - enabled: 1
+    path: Assets/Scenes/Jardin.unity
+    guid: 41e7ab2ec4b93b34b93943b814daee66
+  - enabled: 1
+    path: Assets/Scenes/Pasillo1.unity
+    guid: 47c71bc451769004babfcaab5889ccfe
+  - enabled: 1
+    path: Assets/Scenes/Pasillo2.unity
+    guid: e432ecb25c233f543895e5d1cc38688f
+  - enabled: 1
+    path: Assets/Scenes/Salita.unity
+    guid: 392101b8baf360247892e6148de3b345
+  - enabled: 1
+    path: Assets/Scenes/Salon.unity
+    guid: 13e1dedd92704c94285ffda78c9ee295
+  - enabled: 1
+    path: Assets/Scenes/Terraza.unity
+    guid: e759a312ce04b174191c7c24544d71a0
+  - enabled: 1
+    path: Assets/Scenes/Vestibulo.unity
+    guid: 856b6b13141592c42bf5131c5d308149
+  - enabled: 1
+    path: Assets/Scenes/AlcobaSraChevoj.unity
+    guid: 8d7eeb20e3bf7b644a6d832b1765f56d
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: f52cbf158165d3046b80b41ba4c5ed8e
+  - enabled: 1
+    path: Assets/Scenes/PuebloDuplicado.unity
+    guid: 38529fc5e18f22444ad9f7eb1fcec775
+  - enabled: 1
+    path: Assets/Scenes/AfuerasSet.unity
+    guid: c6d5a099177ed0f438097a1db6dccb31
+  - enabled: 0
+    path: Assets/Scenes/Betweener.unity
+    guid: a69a9e1c2a94d1943ba5fc050813cc97
+  m_configObjects: {}

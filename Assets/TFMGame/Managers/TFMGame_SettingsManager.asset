@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b776810ebfa374d7ba8f0fb5ed6e3265, type: 3}
+  m_Name: TFMGame_SettingsManager
+  m_EditorClassIdentifier: 
+  separateEditorSaveFiles: 0
+  saveFileName: New Unity Project
+  saveTimeDisplay: 0
+  customSaveFormat: MMMM dd, yyyy
+  takeSaveScreenshots: 0
+  saveScreenshots: 0
+  screenshotResolutionFactor: 1
+  useProfiles: 0
+  maxSaves: 5
+  orderSavesByUpdateTime: 0
+  reloadSceneWhenLoading: 0
+  saveWithThreading: 0
+  saveAssetReferencesWithAddressables: 0
+  saveLabels:
+    defaultSaveLabel: Save
+    saveLabelID: -1
+    defaultImportLabel: Import
+    importLabelID: -1
+    defaultAutosaveLabel: Autosave
+    autosaveLabelID: -1
+  sceneAttributes: []
+  actionListOnStart: {fileID: 0}
+  blackOutWhenSkipping: 0
+  playerSwitching: 1
+  player: {fileID: 6103198528091444281, guid: 9a3636ffe80506e4690558d8215e0ef5, type: 3}
+  players: []
+  movementMethod: 0
+  inputMethod: 2
+  interactionMethod: 2
+  selectInteractions: 0
+  autoHideInteractionIcons: 1
+  cancelInteractions: 2
+  seeInteractions: 0
+  closeInteractionMenuIfTapHotspot: 1
+  stopPlayerOnClickHotspot: 0
+  cycleInventoryCursors: 1
+  scaleCursorSpeedWithScreen: 1
+  autoCycleWhenInteract: 0
+  showHoverInteractionInHotspotLabel: 0
+  allowDefaultinteractions: 0
+  alwaysCloseInteractionMenus: 1
+  whenReselectHotspot: 0
+  lockCursorOnStart: 0
+  hideLockedCursor: 0
+  disableFreeAimWhenDragging: 0
+  runConversationsWithKeys: 0
+  clickUpInteractions: 0
+  defaultMouseClicks: 1
+  allowGameplayDuringConversations: 0
+  shareInventory: 0
+  inventoryDragDrop: 0
+  dragDropThreshold: 0
+  allowInventoryInteractionsDuringConversations: 0
+  inventoryDropLook: 1
+  inventoryDropLookNoDrag: 0
+  inventoryInteractions: 0
+  inventoryDisableLeft: 1
+  allowDefaultInventoryInteractions: 0
+  inventoryDisableUnhandled: 1
+  inventoryDisableDefined: 1
+  inventoryInteractionsHaltPlayer: 0
+  activeWhenHover: 0
+  inventoryActiveEffect: 1
+  inventoryPulseSpeed: 1
+  activeWhenUnhandled: 1
+  canReorderItems: 0
+  selectInventoryDisplay: 1
+  rightClickInventory: 0
+  reverseInventoryCombinations: 1
+  canMoveWhenActive: 1
+  selectInvWithUnhandled: 0
+  selectInvWithIconID: 0
+  giveInvWithUnhandled: 0
+  giveInvWithIconID: 0
+  autoDisableUnhandledHotspots: 0
+  clickPrefab: {fileID: 0}
+  clickMarkerPosition: 0
+  walkableClickRange: 0.5
+  navMeshSearchDirection: 1
+  ignoreOffScreenNavMesh: 0
+  doubleClickMovement: 0
+  magnitudeAffectsDirect: 0
+  directTurnsInstantly: 0
+  stopTurningWhenReleaseInput: 0
+  disableMovementWhenInterationMenusAreOpen: 0
+  directMovementType: 0
+  limitDirectMovement: 0
+  directMovementPerspective: 0
+  destinationAccuracy: 0.8
+  experimentalAccuracy: 0
+  unityUIClicksAlwaysBlocks: 0
+  pathfindUpdateFrequency: 0
+  verticalReductionFactor: 0.7
+  rotationsAffectedByVerticalReduction: 1
+  jumpSpeed: 4
+  singleTapStraight: 0
+  singleTapStraightPathfind: 0
+  clickHoldSeparationStraight: 0.3
+  useFPCamDuringConversations: 1
+  onlyInteractWhenCursorUnlocked: 0
+  freeAimSmoothSpeed: 50
+  firstPersonMovementSmoothing: 1
+  assumeInputsDefined: 0
+  activeInputs: []
+  freeAimTouchSpeed: 0.01
+  dragWalkThreshold: 5
+  dragRunThreshold: 20
+  drawDragLine: 0
+  dragLineWidth: 3
+  dragLineColor: {r: 1, g: 1, b: 1, a: 1}
+  offsetTouchCursor: 0
+  doubleTapHotspots: 0
+  firstPersonTouchScreen: 1
+  directTouchScreen: 0
+  touchUpWhenPaused: 0
+  forceAspectRatio: 0
+  aspectRatioEnforcement: 1
+  wantedAspectRatio: 1.7778
+  maxAspectRatio: 2.39
+  renderBorderCamera: 1
+  landscapeModeOnly: 1
+  cameraPerspective: 0
+  cacheCameraMain: 0
+  linearColorTextures: 0
+  relyOnSafeArea: 1
+  movingTurning: 3
+  hotspotDetection: 1
+  closeInteractionMenusIfPlayerLeavesVicinity: 0
+  placeDistantHotspotsOnSeparateLayer: 1
+  hotspotsInVicinity: 0
+  hotspotIconDisplay: 2
+  hotspotIcon: 0
+  hotspotIconTexture: {fileID: 2800000, guid: 5c83780962ed843c0928648679746938, type: 3}
+  hotspotIconSize: 0.05
+  playerFacesHotspots: 0
+  onlyFaceHotspotOnSelect: 0
+  scaleHighlightWithMouseProximity: 1
+  highlightProximityFactor: 4
+  occludeIcons: 0
+  hideIconUnderInteractionMenu: 1
+  hotspotDrawing: 1
+  hideUnhandledHotspots: 0
+  navMeshRaycastLength: 100
+  hotspotRaycastLength: 100
+  moveableRaycastLength: 30
+  hotspotLayer: Default
+  distantHotspotLayer: DistantHotspot
+  navMeshLayer: NavMesh
+  backgroundImageLayer: BackgroundImage
+  deactivatedLayer: Ignore Raycast
+  useLoadingScreen: 0
+  manualSceneActivation: 0
+  loadingSceneIs: 0
+  loadingSceneName: 
+  loadingScene: 0
+  useAsyncLoading: 1
+  loadingDelay: 0
+  blackOutWhenInitialising: 1
+  spawnPersistentEnginePrefab: 1
+  playMusicWhilePaused: 1
+  playAmbienceWhilePaused: 1
+  musicStorages:
+  - ID: 0
+    audioClip: {fileID: 8300000, guid: d42802b8a9a1f7449a036ecdf1bab573, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
+  - ID: 1
+    audioClip: {fileID: 8300000, guid: 3b0cab99df1e5294292ee90dd096e12a, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    audioClip: {fileID: 8300000, guid: 2a924a54a69437544a3e07c4c5189a0a, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
+  - ID: 3
+    audioClip: {fileID: 8300000, guid: 5c36800f08191cd479f16af2b3a9737b, type: 3}
+    relativeVolume: 0.509
+    overrideMixerGroup: {fileID: 0}
+  - ID: 4
+    audioClip: {fileID: 8300000, guid: 56188bfc1829c154d9400afae2fd8ba5, type: 3}
+    relativeVolume: 0.528
+    overrideMixerGroup: {fileID: 0}
+  - ID: 5
+    audioClip: {fileID: 8300000, guid: 0d98671d7a1a2bf47b7fffd1023097e0, type: 3}
+    relativeVolume: 0.547
+    overrideMixerGroup: {fileID: 0}
+  - ID: 6
+    audioClip: {fileID: 8300000, guid: 251a032d2a604f142bd8af90d86d3a21, type: 3}
+    relativeVolume: 0.481
+    overrideMixerGroup: {fileID: 0}
+  ambienceStorages:
+  - ID: 0
+    audioClip: {fileID: 8300000, guid: 5c36800f08191cd479f16af2b3a9737b, type: 3}
+    relativeVolume: 0.06
+    overrideMixerGroup: {fileID: 0}
+  - ID: 1
+    audioClip: {fileID: 8300000, guid: 8ad4fa5b71549b74d9f78f3999f4ef7c, type: 3}
+    relativeVolume: 0.513
+    overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    audioClip: {fileID: 8300000, guid: 911106f6cb607624abc2a78bfbae4f9f, type: 3}
+    relativeVolume: 0.756
+    overrideMixerGroup: {fileID: 0}
+  loadAmbienceFadeTime: 0
+  crossfadeAmbienceWhenLoading: 1
+  restartAmbienceTrackWhenLoading: 0
+  loadMusicFadeTime: 0
+  crossfadeMusicWhenLoading: 0
+  restartMusicTrackWhenLoading: 0
+  autoEndOtherMusicWhenPlayed: 0
+  volumeControl: 0
+  musicMixerGroup: {fileID: 0}
+  sfxMixerGroup: {fileID: 0}
+  speechMixerGroup: {fileID: 0}
+  musicAttentuationParameter: musicVolume
+  sfxAttentuationParameter: sfxVolume
+  speechAttentuationParameter: speechVolume
+  defaultLanguage: 0
+  defaultVoiceLanguage: 0
+  defaultShowSubtitles: 0
+  defaultSfxVolume: 0.421
+  defaultMusicVolume: 0.407
+  defaultSpeechVolume: 1
+  showDebugLogs: 0
+  printActionCommentsInConsole: 0
+  actionCommentLogging: 0
+  showActiveActionLists: 0
